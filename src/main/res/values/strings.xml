@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RLS</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_menu">Login Menu</string>
+    <string name="login">Login</string>
+    <string name="daftar">Daftar</string>
+    <string name="email">Email</string>
+    <string name="question_login">Sudah punya akun? Klik untuk Login!</string>
+    <string name="question_daftar">Belum punya akun? Klik untuk Daftar sekarang!</string>
+    <string name="file_kunci">file_kunci</string>
+    <string name="userlogin">userlogin</string>
+    <string name="nama_user">nama_user</string>
+    <string name="logout">Logout</string>
+    <string name="edit_profil">Edit Profil</string>
+</resources>
